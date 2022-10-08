@@ -1,0 +1,5 @@
+# ninja log v5
+80	247	686944579	CMakeFiles/yuv-decoder.dir/src/main/cpp/yuv-decoder.cpp.o	8212e41696b3c64f
+247	518	686944580	../../../../build/intermediates/cxx/Debug/2v4n145r/obj/arm64-v8a/libyuv-decoder.so	1c5bc5db394cd9f7
+1	168	686944743	CMakeFiles/yuv-decoder.dir/src/main/cpp/yuv-decoder.cpp.o	8212e41696b3c64f
+168	321	686944743	../../../../build/intermediates/cxx/Debug/2v4n145r/obj/arm64-v8a/libyuv-decoder.so	1c5bc5db394cd9f7

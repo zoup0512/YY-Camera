@@ -1,0 +1,3 @@
+ninja: Entering directory `E:\StudioProjects\YY-Camera\yy_image\.cxx\Debug\2v4n145r\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/yuv-decoder.dir/src/main/cpp/yuv-decoder.cpp.o
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cxx\Debug\2v4n145r\obj\arm64-v8a\libyuv-decoder.so

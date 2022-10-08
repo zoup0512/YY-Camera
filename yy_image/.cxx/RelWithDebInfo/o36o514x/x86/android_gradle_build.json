@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "E:\\StudioProjects\\YY-Camera\\yy_image\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\zou'p\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "E:\\StudioProjects\\YY-Camera\\yy_image\\.cxx\\RelWithDebInfo\\o36o514x\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\zou'p\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "E:\\StudioProjects\\YY-Camera\\yy_image\\.cxx\\RelWithDebInfo\\o36o514x\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yuv-decoder-RelWithDebInfo-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\zou'p\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "E:\\StudioProjects\\YY-Camera\\yy_image\\.cxx\\RelWithDebInfo\\o36o514x\\x86",
+        "yuv-decoder"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "yuv-decoder",
+      "output": "E:\\StudioProjects\\YY-Camera\\yy_image\\build\\intermediates\\cxx\\RelWithDebInfo\\o36o514x\\obj\\x86\\libyuv-decoder.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

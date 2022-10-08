@@ -1,0 +1,2 @@
+include ':app', ':yy_image', ':yy_videolib',":yy_camera"
+include ':PhotoPicker'
